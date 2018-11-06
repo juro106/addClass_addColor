@@ -1,3 +1,5 @@
+// javascriptのみで頑張ろうとしているバージョン
+
 // var tablename = document.getElementsByClassName("race_results");
 // // console.log(tablename);
 // var trtg1 = tablename[0].getElementsByTagName('tr');
